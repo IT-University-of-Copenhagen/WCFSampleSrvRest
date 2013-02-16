@@ -1,0 +1,5 @@
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudServiceRest\WindowsAzureCloudServiceRest\bin\WindowsAzureCloudServiceRest.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudServiceRest\WindowsAzureCloudServiceRest\bin\WindowsAzureCloudServiceRest.pdb
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudServiceRest\WindowsAzureCloudServiceRest\obj\Debug\WindowsAzureCloudServiceRest.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudServiceRest\WindowsAzureCloudServiceRest\obj\Debug\WindowsAzureCloudServiceRest.pdb
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudServiceRest\WindowsAzureCloudServiceRest\obj\Debug\WindowsAzureCloudServiceRest.csprojResolveAssemblyReference.cache
